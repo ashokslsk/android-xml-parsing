@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<products>
+    <product>
+        <productId>1</productId>
+        <category>Shrubs</category>
+        <name>Azalea</name>
+        <nickname>California Snow</nickname>
+        <instructions>Large double. Good grower, heavy bloomer. Early to mid-season, acid loving plants. Plant in moist well drained soil with pH of 4.0-5.5.</instructions>
+        <catalogNumber>S1</catalogNumber>
+        <price>15.99</price>
+        <photo>california_snow.jpg</photo>
+    </product>
+    <product>
+        <productId>2</productId>
+        <category>Shrubs</category>
+        <name>Tibouchina Semidecandra</name>
+        <instructions>Beautiful large royal purple flowers adorn attractive satiny green leaves that turn orange/red in cold weather. Grows to up to 18 feet, or prune annually to shorten.</instructions>
+        <catalogNumber>S2</catalogNumber>
+        <price>33.99</price>
+        <photo>princess_flower.jpg</photo>
+    </product>
+    <product>
+        <productId>3</productId>
+        <category>Shrubs</category>
+        <name>Hibiscus</name>
+        <nickname>Haight Ashbury</nickname>
+        <instructions>Blooms in summer, 20-35 inches high. Fertilize regularly for best results. Full sun, drought tolerant.</instructions>
+        <catalogNumber>S3</catalogNumber>
+        <price>12.99</price>
+        <photo>haight_ashbury.jpg</photo>
+    </product>
+    <product>
+        <productId>4</productId>
+        <category>Shrubs</category>
+        <name>Plectranthus</name>
+        <nickname>Mona Lavender</nickname>
+        <instructions>Quick-growing, herbaceous, shrub reaching up to 30 inches in height, forming a rounded, dense bush.</instructions>
+        <catalogNumber>S4</catalogNumber>
+        <price>5.99</price>
+        <photo>mona_lavender.jpg</photo>
+    </product>
+    <product>
+        <productId>5</productId>
+        <category>Shrubs</category>
+        <name>Camellia Japonica</name>
+        <nickname>Dr Burnside</nickname>
+        <instructions>Slow growing, upright to spreading shrub. Oval, glossy, leaves and profuse winter to spring blooming flowers.</instructions>
+        <catalogNumber>S5</catalogNumber>
+        <price>15.99</price>
+        <photo>camellia.jpg</photo>
+    </product>
+    <product>
+        <productId>6</productId>
+        <category>Shrubs</category>
+        <name>Bougainvillea Spectabilis</name>
+        <instructions>Thorny woody vine scrambles over other plants with their hooked thorns. Pest free.</instructions>
+        <catalogNumber>S6</catalogNumber>
+        <price>10.99</price>
+        <photo>bougainvillea.jpg</photo>
+    </product>
+    <product>
+        <productId>7</productId>
+        <category>Shrubs</category>
+        <name>Rosa</name>
+        <nickname>Burgundy</nickname>
+        <instructions>Deep purple colored flowers bushy rounded growth habit to 3 feet tall. Plant in full sun. Water regularly.</instructions>
+        <catalogNumber>S7</catalogNumber>
+        <price>22.99</price>
+        <photo>rosa_burgundy.jpg</photo>
+    </product>
+    <product>
+        <productId>8</productId>
+        <category>Shrubs</category>
+        <name>Rosa</name>
+        <nickname>Iceberg</nickname>
+        <instructions>Deep purple colored flowers bushy rounded growth habit to 3 feet tall. Plant in full sun. Water regularly.</instructions>
+        <catalogNumber>S8</catalogNumber>
+        <price>22.99</price>
+        <photo>rosa_iceberg.jpg</photo>
+    </product>
+    <product>
+        <productId>9</productId>
+        <category>Container Plants</category>
+        <name>Bonsai Tree</name>
+        <instructions>They do not thrive indoors, where the light is too dim, and humidity too low, for them to grow properly.</instructions>
+        <catalogNumber>CP1</catalogNumber>
+        <price>45.99</price>
+        <photo>bonsai.jpg</photo>
+    </product>
+    <product>
+        <productId>10</productId>
+        <category>Container Plants</category>
+        <name>Calibrachoa Noa</name>
+        <nickname>Blue Legend</nickname>
+        <instructions>Blooms continuously from early spring to first frost. Full sun or part shade, moist well-drained soil.</instructions>
+        <catalogNumber>CP2</catalogNumber>
+        <price>12.99</price>
+        <photo>calibrachoa.jpg</photo>
+    </product>
+    <product>
+        <productId>11</productId>
+        <category>Container Plants</category>
+        <name>Cymbidium Aestivum</name>
+        <instructions>The flowers last about ten weeks. They have a waxy texture and reach a height of more than 20 inches.</instructions>
+        <catalogNumber>CP3</catalogNumber>
+        <price>14.99</price>
+        <photo>cymbidium.jpg</photo>
+    </product>
+    <product>
+        <productId>12</productId>
+        <category>Container Plants</category>
+        <name>Brassica Oleracea</name>
+        <nickname>Flowering Kale</nickname>
+        <instructions>Creamy-white centers, medium green outer foliage with flattened outer foliage.</instructions>
+        <catalogNumber>CP4</catalogNumber>
+        <price>4.99</price>
+        <photo>flowering_kale.jpg</photo>
+    </product>
+    <product>
+        <productId>13</productId>
+        <category>Container Plants</category>
+        <name>Viola Penny Orange Jump Up</name>
+        <instructions>Compact mounds of colorful dainty flowers, good for window boxes. Fertile well drained soil.</instructions>
+        <catalogNumber>CP5</catalogNumber>
+        <price>4.99</price>
+        <photo>penny_orange_jumpup.jpg</photo>
+    </product>
+    <product>
+        <productId>14</productId>
+        <category>Container Plants</category>
+        <name>Cotula</name>
+        <nickname>Pincushion plant</nickname>
+        <instructions>Cotula have very fragrant orange flowers that bloom in the middle of summer.</instructions>
+        <catalogNumber>CP6</catalogNumber>
+        <price>5.99</price>
+        <photo>pincushion.jpg</photo>
+    </product>
+    <product>
+        <productId>15</productId>
+        <category>Container Plants</category>
+        <name>Pelargonium Peltatum</name>
+        <instructions>Well drained neutral to slightly acid soil, bright light. Do not over-fertilize or these flowers will lose scent.</instructions>
+        <catalogNumber>CP7</catalogNumber>
+        <price>4.99</price>
+        <photo>pelargonium.jpg</photo>
+    </product>
+    <product>
+        <productId>16</productId>
+        <category>Container Plants</category>
+        <name>Pansy Blue Shades</name>
+        <instructions>Compact mounds of colorful dainty flowers, good for window boxes. Fertile well drained soil.</instructions>
+        <catalogNumber>CP8</catalogNumber>
+        <price>3.99</price>
+        <photo>pansy_blue_shades.jpg</photo>
+    </product>
+    <product>
+        <productId>17</productId>
+        <category>Container Plants</category>
+        <name>Pansy Yellow with Blotch</name>
+        <instructions>Compact mounds of colorful dainty flowers, good for window boxes. Fertile well drained soil.</instructions>
+        <catalogNumber>CP9</catalogNumber>
+        <price>3.99</price>
+        <photo>yellow_pansy.jpg</photo>
+    </product>
+    <product>
+        <productId>18</productId>
+        <category>Container Plants</category>
+        <name>Phalaenopsis Purple</name>
+        <instructions>Choose the brightest windows in your house for your orchids, place on an humidity tray and spray regularly.</instructions>
+        <catalogNumber>CP10</catalogNumber>
+        <price>25.99</price>
+        <photo>phalaenopsis.jpg</photo>
+    </product>
+    <product>
+        <productId>19</productId>
+        <category>Herbaceous Perennials</category>
+        <name>Dianthus</name>
+        <instructions>They thrive in fertile, fast draining, slightly alkaline (pH 6.75) soil. Avoid overwatering.</instructions>
+        <catalogNumber>HP1</catalogNumber>
+        <price>5.99</price>
+        <photo>dianthus.jpg</photo>
+    </product>
+    <product>
+        <productId>20</productId>
+        <category>Herbaceous Perennials</category>
+        <name>Chrysanthemum</name>
+        <nickname>Bronze Mums</nickname>
+        <instructions>Chrysanthemums respond to plenty of food and moisture, and prefer full sun.</instructions>
+        <catalogNumber>HP2</catalogNumber>
+        <price>9.99</price>
+        <photo>bronze_mums.jpg</photo>
+    </product>
+    <product>
+        <productId>21</productId>
+        <category>Herbaceous Perennials</category>
+        <name>Armeria Alliacea</name>
+        <instructions>Summer flowering, 12–18” high, likes full sun and well drained soil. Drought tolerant.</instructions>
+        <catalogNumber>HP3</catalogNumber>
+        <price>7.99</price>
+        <photo>armeria_allicaea.jpg</photo>
+    </product>
+    <product>
+        <productId>22</productId>
+        <category>Herbaceous Perennials</category>
+        <name>Salvia Splendens</name>
+        <instructions>Grows to 15 inches. The species is easy to grow from seeds or cuttings. This species prefers full sun.</instructions>
+        <catalogNumber>HP4</catalogNumber>
+        <price>6.99</price>
+        <photo>salvia.jpg</photo>
+    </product>
+    <product>
+        <productId>23</productId>
+        <category>Herbaceous Perennials</category>
+        <name>Agapanthus</name>
+        <nickname>Headbourne</nickname>
+        <instructions>Easily grown, tolerant of drought and poor soil, flower and foliage improves with feeding. Full sun.</instructions>
+        <catalogNumber>HP5</catalogNumber>
+        <price>8.99</price>
+        <photo>agapanthus.jpg</photo>
+    </product>
+    <product>
+        <productId>24</productId>
+        <category>Herbaceous Perennials</category>
+        <name>Iris Sibirica</name>
+        <instructions>These plants are very hardy, easy to grow, and increase readily. Average flower size is 3-4 inches in diameter.</instructions>
+        <catalogNumber>HP6</catalogNumber>
+        <price>5.99</price>
+        <photo>iris_siberica.jpg</photo>
+    </product>
+    <product>
+        <productId>25</productId>
+        <category>Herbaceous Perennials</category>
+        <name>Chrysanthemum</name>
+        <nickname>White Wedding</nickname>
+        <instructions>Chrysanthemums grow best and produce the most flowers if they are planted in full sunshine.</instructions>
+        <catalogNumber>HP7</catalogNumber>
+        <price>9.99</price>
+        <photo>white_wedding.jpg</photo>
+    </product>
+    <product>
+        <productId>26</productId>
+        <category>Herbaceous Perennials</category>
+        <name>Senecio Cineraria</name>
+        <nickname>Dusty Miller</nickname>
+        <instructions>Grown primarily for its attractive silvergray foliage rather than its yellow flowers. Drought tolerant.</instructions>
+        <catalogNumber>HP8</catalogNumber>
+        <price>10.99</price>
+        <photo>dusty_miller.jpg</photo>
+    </product>
+    <product>
+        <productId>27</productId>
+        <category>Cacti &amp; Succulents</category>
+        <name>Red Cactus</name>
+        <instructions>Add water until there is half inch of dry soil on the surface. Do not water again until the soil is completely dry.</instructions>
+        <catalogNumber>CS1</catalogNumber>
+        <price>18.99</price>
+        <photo>red_cactus.jpg</photo>
+    </product>
+    <product>
+        <productId>28</productId>
+        <category>Cacti &amp; Succulents</category>
+        <name>Aloe Vera</name>
+        <instructions>Drought tolerant, well drained soil. Prefers full sun.</instructions>
+        <catalogNumber>CS2</catalogNumber>
+        <price>30.99</price>
+        <photo>aloe_vera.jpg</photo>
+    </product>
+    <product>
+        <productId>29</productId>
+        <category>Cacti &amp; Succulents</category>
+        <name>Schlumbergera</name>
+        <nickname>Exotic Dancer</nickname>
+        <instructions>Easy to care for, requiring watering only when they’re dry. They like bright but indirect light.</instructions>
+        <catalogNumber>CS3</catalogNumber>
+        <price>20.99</price>
+        <photo>exotic_dancer.jpg</photo>
+    </product>
+    <product>
+        <productId>30</productId>
+        <category>Cacti &amp; Succulents</category>
+        <name>Senecio Rowleyanus</name>
+        <nickname>String of Pearls</nickname>
+        <instructions>Locate it in a place where it is exposed to at least a few hours of direct sunlight.</instructions>
+        <catalogNumber>CS4</catalogNumber>
+        <price>18.5</price>
+        <photo>string_of_pearls.jpg</photo>
+    </product>
+    <product>
+        <productId>31</productId>
+        <category>Cacti &amp; Succulents</category>
+        <name>Lithops</name>
+        <instructions>These plants blend in among the stones as a means of protection. Grazing animals would otherwise eat them.</instructions>
+        <catalogNumber>CS5</catalogNumber>
+        <price>12.99</price>
+        <photo>lithops.jpg</photo>
+    </product>
+    <product>
+        <productId>32</productId>
+        <category>Cacti &amp; Succulents</category>
+        <name>Pachycereus Marginatus</name>
+        <nickname>Mexican Fencepost Cactus</nickname>
+        <instructions>The Mexican Fence Post will eventually reach 20 feet tall. Protect the growing tips with Styrofoam cups on the tops.</instructions>
+        <catalogNumber>CS6</catalogNumber>
+        <price>55.99</price>
+        <photo>mexican_fencepost_cactus.jpg</photo>
+    </product>
+    <product>
+        <productId>33</productId>
+        <category>Cacti &amp; Succulents</category>
+        <name>Echinocactus Grusonii</name>
+        <nickname>Mexican Golden Barrel</nickname>
+        <instructions>Growing as a large roughly spherical globe, it may eventually reach over a meter in height after many years.</instructions>
+        <catalogNumber>CS7</catalogNumber>
+        <price>25.99</price>
+        <photo>mexican_golden_barrel_cactus.jpg</photo>
+    </product>
+    <product>
+        <productId>34</productId>
+        <category>Cacti &amp; Succulents</category>
+        <name>Opuntia Falcata</name>
+        <nickname>Bunny Ears</nickname>
+        <instructions>The plants should be kept almost completely dry during the winter months, once a month should be fine.</instructions>
+        <catalogNumber>CS8</catalogNumber>
+        <price>16.99</price>
+        <photo>opuntia_cactus.jpg</photo>
+    </product>
+</products>

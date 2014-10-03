@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<categories>
+    <category>
+        <categoryId>1</categoryId>
+        <category>Shrubs</category>
+        <description>A shrub is distinct from a tree because it tends to have multiple stems and generally be much shorter, not exceeding 20 feet in height. Some low shrubs such as lavender are frequently called shrubs, but what they all have in common is their woody stems giving them various degrees of frost hardiness.</description>
+    </category>
+    <category>
+        <categoryId>2</categoryId>
+        <category>Container Plants</category>
+        <description>Plants are grown in containers for a variety of reasons. In many cases it allows people to grow plants where they have no garden or where space is limited. Many plants cannot compete well in a border, so their own pot provides them with a unique environment where the soil type, watering and care can be tailored to that species. However in an exposed situation, container plants can dry out very quickly, especially when it is hot.</description>
+    </category>
+    <category>
+        <categoryId>3</categoryId>
+        <category>Herbaceous Perennials</category>
+        <description>Unlike a shrub, an herbaceous plant has a soft stem which will not typically survive the winter and the flowering parts tend to die back during this period. A perennial means the plant will come back year after year as opposed to an annual which only has a one season lifespan.</description>
+    </category>
+    <category>
+        <categoryId>4</categoryId>
+        <category>Cacti &amp; Succulents</category>
+        <description>Most cacti and succulents hail from semi-deserts and therefore need as much light as can be provided. This means they will need siting on a window sill or in a greenhouse. Good air circulation is needed to prevent mealy bugs and red spider mite which thrive in hot unventilated conditions. They are often cultivated together because of their water storing capabilities.</description>
+    </category>
+</categories>

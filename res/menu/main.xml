@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="org.example.networktest.app.MainActivity" >
+    <item android:id="@+id/action_get_data"
+        android:title="@string/get_data"
+        android:orderInCategory="100"
+        android:showAsAction="always"/>
+</menu>
